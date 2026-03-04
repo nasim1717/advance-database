@@ -12,6 +12,7 @@
 #### Implementation Strategy:
 
 **Table-per-Hierarchy (Single Table):** সব ডেটা এক টেবিলে রেখে একটি type কলাম রাখা।
+
 **Table-per-Type (Joined):** আলাদা আলাদা টেবিল কিন্তু Primary Key শেয়ার করা।
 
 ### ২. Aggregation (Relationship between Relationships)
@@ -44,7 +45,7 @@
 | **Ternary**     | এটাকে আলাদা Associative Entity (Table) এ রূপান্তর করুন।      | রিলেশনশিপ মেইনটেইন করা জটিল হয়।          |
 | **Weak Entity** | কম্পোজিট কি (Composite Key) ব্যবহার করুন।                    | কুয়েরি করার সময় বড় WHERE ক্লজ লিখতে হবে। |
 
-### ৬. Pro-Tips for Clean ERD
+### নোটঃ
 
 - Always use Crow’s Foot Notation: এটি কার্ডিনালিটি (Cardinality) বোঝার জন্য সবচেয়ে স্ট্যান্ডার্ড।
 - Avoid Redundancy: যদি লজিক্যাল মডেলে লুপ তৈরি হয়, তবে রিলেশনশিপগুলো পুনরায় চেক করুন।
