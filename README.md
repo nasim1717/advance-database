@@ -10,3 +10,4 @@
 
 1. [Logical vs Physical Data Model](./docs/logical-vs-physical.md)
 2. [ER Diagram: Handling Advanced Modeling Scenarios](./docs/er-diagram-advanced.md)
+3. [ER Diagram Symbols](./docs/er-diagram-symbols.md)
