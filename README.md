@@ -13,3 +13,4 @@
 3. [ER Diagram Symbols](./docs/er-diagram-symbols.md)
 4. [Weak Entity](./docs/weak-entity.md)
 5. [Composite Primary Key](./docs/composite-primary-key.md)
+6. [Surrogate Key vs Natural Key: Choosing the Right Identity](./docs/surrogate-key-vs-natural-key.md)
