@@ -12,3 +12,4 @@
 2. [ER Diagram: Handling Advanced Modeling Scenarios](./docs/er-diagram-advanced.md)
 3. [ER Diagram Symbols](./docs/er-diagram-symbols.md)
 4. [Weak Entity](./docs/weak-entity.md)
+5. [Composite Primary Key](./docs/composite-primary-key.md)
