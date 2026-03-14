@@ -15,3 +15,4 @@
 5. [Composite Primary Key](./docs/composite-primary-key.md)
 6. [Surrogate Key vs Natural Key: Choosing the Right Identity](./docs/surrogate-key-vs-natural-key.md)
 7. [Polymorphic Relationships](./docs/polymorphic-relationships.md)
+8. [Temporal Tables: The Database Time Machine](./docs/temporal-tables.md)
