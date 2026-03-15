@@ -16,3 +16,4 @@
 6. [Surrogate Key vs Natural Key: Choosing the Right Identity](./docs/surrogate-key-vs-natural-key.md)
 7. [Polymorphic Relationships](./docs/polymorphic-relationships.md)
 8. [Temporal Tables: The Database Time Machine](./docs/temporal-tables.md)
+9. [Soft Delete Modeling: The "Safety Net" for Your Data](./docs/soft-delete-modeling.md)
