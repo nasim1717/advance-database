@@ -19,3 +19,7 @@
 9. [Soft Delete Modeling: The "Safety Net" for Your Data](./docs/soft-delete-modeling.md)
 10. [Audit Table Design: The Database CCTV](./docs/audit-table-design.md)
 11. [Multi-tenant Data Modeling: Building for the SaaS World](./docs/multi-tenant-data-modeling.md)
+
+### 📂 Module 2: Indexing & Performance Tuning
+
+1. [B-Tree Index: The Secret to Lightning-Fast Queries](./docs/b-tree-index.md)
