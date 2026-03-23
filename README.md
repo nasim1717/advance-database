@@ -18,3 +18,4 @@
 8. [Temporal Tables: The Database Time Machine](./docs/temporal-tables.md)
 9. [Soft Delete Modeling: The "Safety Net" for Your Data](./docs/soft-delete-modeling.md)
 10. [Audit Table Design: The Database CCTV](./docs/audit-table-design.md)
+11. [Multi-tenant Data Modeling: Building for the SaaS World](./docs/multi-tenant-data-modeling.md)
