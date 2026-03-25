@@ -23,3 +23,4 @@
 ### 📂 Module 2: Indexing & Performance Tuning
 
 1. [B-Tree Index: The Secret to Lightning-Fast Queries](./docs/b-tree-index.md)
+2. [Hash Index: The Speed of Light Lookup](./docs/hash-index.md)
