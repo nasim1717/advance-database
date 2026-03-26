@@ -25,3 +25,4 @@
 1. [B-Tree Index: The Secret to Lightning-Fast Queries](./docs/b-tree-index.md)
 2. [Hash Index: The Speed of Light Lookup](./docs/hash-index.md)
 3. [Bitmap Index: The Efficiency of Bits and Bytes](./docs/bitmap-index.md)
+4. [Clustered vs Non-clustered Index](./docs/clustered-vs-non-clustered-index.md)
