@@ -26,3 +26,4 @@
 2. [Hash Index: The Speed of Light Lookup](./docs/hash-index.md)
 3. [Bitmap Index: The Efficiency of Bits and Bytes](./docs/bitmap-index.md)
 4. [Clustered vs Non-clustered Index](./docs/clustered-vs-non-clustered-index.md)
+5. [Covering Index: The Fast Track to Query Performance](./docs/covering-index.md)
