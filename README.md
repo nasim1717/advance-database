@@ -30,3 +30,4 @@
 6. [Partial / Filtered Index: Precision Over Mass](./docs/partial-filtered-index.md)
 7. [Composite Index order](./docs/composite-index-order.md)
 8. [Index Selectivity: The Quality Metric of an Index](./docs/index-selectivity.md)
+9. [Index Maintenance: Keeping Your Database Healthy](./docs/index-maintenance.md)
