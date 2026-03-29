@@ -31,3 +31,4 @@
 7. [Composite Index order](./docs/composite-index-order.md)
 8. [Index Selectivity: The Quality Metric of an Index](./docs/index-selectivity.md)
 9. [Index Maintenance: Keeping Your Database Healthy](./docs/index-maintenance.md)
+10. [When NOT to Use Index: Avoiding the Performance Trap](./docs/when-not-to-use-index.md)
