@@ -32,3 +32,7 @@
 8. [Index Selectivity: The Quality Metric of an Index](./docs/index-selectivity.md)
 9. [Index Maintenance: Keeping Your Database Healthy](./docs/index-maintenance.md)
 10. [When NOT to Use Index: Avoiding the Performance Trap](./docs/when-not-to-use-index.md)
+
+### 📂 Module 3: Query Execution & Optimization
+
+1. [Query Execution Plan: The Database's Inner Roadmap](./docs/query-execution-plan.md)
