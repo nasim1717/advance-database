@@ -36,3 +36,4 @@
 ### 📂 Module 3: Query Execution & Optimization
 
 1. [Query Execution Plan: The Database's Inner Roadmap](./docs/query-execution-plan.md)
+2. [Cost-based Optimizer (CBO): The Brain of Your Database](./docs/cost-based-optimizer.md)
