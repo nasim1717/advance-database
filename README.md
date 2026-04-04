@@ -37,3 +37,4 @@
 
 1. [Query Execution Plan: The Database's Inner Roadmap](./docs/query-execution-plan.md)
 2. [Cost-based Optimizer (CBO): The Brain of Your Database](./docs/cost-based-optimizer.md)
+3. [Full Table Scan vs. Index Scan: The Efficiency War](./docs/full-table-scan-vs-index-scan.md)
