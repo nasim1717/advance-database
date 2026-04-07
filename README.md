@@ -40,3 +40,4 @@
 3. [Full Table Scan vs. Index Scan: The Efficiency War](./docs/full-table-scan-vs-index-scan.md)
 4. [Join Algorithms: The Engine Behind SQL Joins](./docs/join-algorithms.md)
 5. [Subquery Optimization: Turning Slow Queries into Rockets](./docs/subquery-optimization.md)
+6. [Query Caching: The Art of Remembering Answers](./docs/query-caching.md)
