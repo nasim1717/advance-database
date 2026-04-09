@@ -41,3 +41,4 @@
 4. [Join Algorithms: The Engine Behind SQL Joins](./docs/join-algorithms.md)
 5. [Subquery Optimization: Turning Slow Queries into Rockets](./docs/subquery-optimization.md)
 6. [Query Caching: The Art of Remembering Answers](./docs/query-caching.md)
+7. [Materialized Views: Pre-computed Performance](./docs/materialized-views.md)
