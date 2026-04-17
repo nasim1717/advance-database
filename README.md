@@ -48,3 +48,4 @@
 ### 📂 Module 4: Transactions & Concurrency (Very Important)
 
 1. [Transaction lifecycle](./docs/transaction-lifecycle.md)
+2. [ACID Properties: The Pillars of Database Reliability](./docs/acid-properties.md)
