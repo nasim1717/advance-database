@@ -43,3 +43,4 @@
 6. [Query Caching: The Art of Remembering Answers](./docs/query-caching.md)
 7. [Materialized Views: Pre-computed Performance](./docs/materialized-views.md)
 8. [The N+1 Query Problem: A Deep Dive into Performance Killers](./docs/n-plus-one-query-problem.md)
+9. [Slow Query Analysis: Hunting the Performance Killers](./docs/slow-query-analysis.md)
