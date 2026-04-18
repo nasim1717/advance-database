@@ -50,3 +50,4 @@
 1. [Transaction lifecycle](./docs/transaction-lifecycle.md)
 2. [ACID Properties: The Pillars of Database Reliability](./docs/acid-properties.md)
 3. [Database Isolation Levels: Balancing Performance & Accuracy](./docs/database-isolation-levels.md)
+4. [Database Anomaly: Dirty Read](./docs/dirty-read.md)
