@@ -52,3 +52,4 @@
 3. [Database Isolation Levels: Balancing Performance & Accuracy](./docs/database-isolation-levels.md)
 4. [Database Anomaly: Dirty Read](./docs/dirty-read.md)
 5. [Database Anomaly: Non-repeatable Read](./docs/non-repeatable-read.md)
+6. [Database Anomaly: Phantom Read](./docs/phantom-read.md)
