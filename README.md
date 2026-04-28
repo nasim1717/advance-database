@@ -54,3 +54,4 @@
 5. [Database Anomaly: Non-repeatable Read](./docs/non-repeatable-read.md)
 6. [Database Anomaly: Phantom Read](./docs/phantom-read.md)
 7. [Deadlock Detection: Breaking the Database Gridlock](./docs/deadlock-detection.md)
+8. [Deadlock Prevention: Designing Bulletproof Database Interactions](./docs/deadlock-prevention.md)
