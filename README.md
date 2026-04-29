@@ -55,3 +55,4 @@
 6. [Database Anomaly: Phantom Read](./docs/phantom-read.md)
 7. [Deadlock Detection: Breaking the Database Gridlock](./docs/deadlock-detection.md)
 8. [Deadlock Prevention: Designing Bulletproof Database Interactions](./docs/deadlock-prevention.md)
+9. [Optimistic vs Pessimistic Locking: Choosing Your Strategy](./docs/optimistic-vs-pessimistic-locking.md)
